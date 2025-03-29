@@ -1,7 +1,3 @@
-Here’s a simple and well-structured **README.md** file content for your **To-Do List App**:  
-
----
-
 # 📝 To-Do List App  
 
 A simple command-line **To-Do List App** in Python that helps users add, view, remove, and update tasks easily.  
@@ -25,7 +21,9 @@ python main.py
 
 ## 🛠 Technologies Used  
 - Python  
-- Git & GitHub (for version control)  
+- Git & GitHub (for version control)
+
+## 📷 Screenshot
 
 ## 📌 Future Enhancements  
 - Add a due date for tasks  
