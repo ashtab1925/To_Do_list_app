@@ -24,7 +24,7 @@ python main.py
 - Git & GitHub (for version control)
 
 ## 📷 Screenshot
-
+ ![To-Do List App Screenshot](https://github.com/ashtab1925/To_Do_list_app/blob/a9173fb5f5e07d85bd3b800e57e2e97524bd5e83/Screenshot_todo.png)
 ## 📌 Future Enhancements  
 - Add a due date for tasks  
 - Save tasks to a file  
