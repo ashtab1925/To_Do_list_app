@@ -27,9 +27,6 @@ python main.py
 - Python  
 - Git & GitHub (for version control)  
 
-## 📷 Screenshot  
-
-
 ## 📌 Future Enhancements  
 - Add a due date for tasks  
 - Save tasks to a file  
